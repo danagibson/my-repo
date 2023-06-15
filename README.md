@@ -1,1 +1,1 @@
-"#My fake repository" 
+"# my-repo" 
